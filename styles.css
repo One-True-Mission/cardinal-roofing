@@ -16,8 +16,8 @@
   --ink-soft: #24262a;
   --bg: #f3f3f1;           /* page background */
   --bg-soft: #eae7e1;      /* alternating section tone */
-  --card: #ffffff;         /* section card */
-  --sub: #fbfaf7;          /* sub-card (ivory) */
+  --card: #f6f1e6;         /* section card (warm cream, never pure white) */
+  --sub: #fdfbf6;          /* sub-card (lighter warm ivory, lifts above the cream frame) */
   --text: #2a2a2c;
   --muted: #5d6167;
   --line: #e2ded6;
